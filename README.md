@@ -15,7 +15,7 @@ Category | Project | Description
 ![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | x
 ![alt text][c_logo] | [minishell](https://github.com/noster002/minishell) | x
 ![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | x
-🕸️ | [NetPractice](https://github.com/noster002/NetPractice) | x
+| [NetPractice](https://github.com/noster002/NetPractice) | x
 ![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | x
 ![alt text][cpp_logo] | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | x
 ![alt text][cpp_logo] | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | x
@@ -27,14 +27,17 @@ Category | Project | Description
 ![alt text][cpp_logo] | [CPP Module 07](https://github.com/noster002/CPP-Module-07) | x
 ![alt text][cpp_logo] | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | x
 ![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | x
-![alt text][cpp_logo] | [webserv](https://github.com/noster002/webserv) | x
-![alt text][docker_logo] | [Inception](https://github.com/noster002/Inception) | x
-![alt text][docker_logo]![alt text][c_logo] | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
+![alt text][cpp_logo]![alt text][nginx_logo] | [webserv](https://github.com/noster002/webserv) | x
+![alt text][docker_logo]![alt text][nginx_logo] | [Inception](https://github.com/noster002/Inception) | x
+![alt text][docker_logo]![alt text][nestjs_logo]![alt text][typescript_logo] | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
 
 [c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
 [debian_logo]: https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
 [cpp_logo]: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
 [docker_logo]: https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg
+[nginx_logo]: https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg
+[nestjs_logo]: https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg
+[typescript_logo]: https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg
 
 <!--
 **noster002/noster002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
