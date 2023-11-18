@@ -29,7 +29,7 @@ Category | Project | Description
 ![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | x
 ![alt text][cpp_logo] | [webserv](https://github.com/noster002/webserv) | x
 ![alt text][docker_logo] | [Inception](https://github.com/noster002/Inception) | x
-⭐ | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
+![alt text][docker_logo][c_logo] | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
 
 [c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
 [debian_logo]: https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
