@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👨‍🎓 I'm a student at [42Wolfsburg](https://42wolfsburg.de/)
+
 <!--
 **noster002/noster002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
