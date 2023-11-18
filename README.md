@@ -6,30 +6,30 @@
 
 Category | Project | Description
 :---:| --- | ---
-![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | x
-![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | x
-![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | x
-![alt text][debian_logo] | [born2beRoot](https://github.com/noster002/born2beRoot) | x
-![alt text][c_logo] | [push_swap](https://github.com/noster002/push_swap) | x
-![alt text][c_logo] | [FdF](https://github.com/noster002/FdF) | x
-![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | x
-![alt text][c_logo]![alt text][bash_logo] | [minishell](https://github.com/noster002/minishell) | x
-![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | x
-➖ | [NetPractice](https://github.com/noster002/NetPractice) | x
-![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | x
-![alt text][cpp_logo] | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | x
-![alt text][cpp_logo] | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | x
-![alt text][cpp_logo] | [CPP Module 02](https://github.com/noster002/CPP-Module-02) | x
-![alt text][cpp_logo] | [CPP Module 03](https://github.com/noster002/CPP-Module-03) | x
-![alt text][cpp_logo] | [CPP Module 04](https://github.com/noster002/CPP-Module-04) | x
-![alt text][cpp_logo] | [CPP Module 05](https://github.com/noster002/CPP-Module-05) | x
-![alt text][cpp_logo] | [CPP Module 06](https://github.com/noster002/CPP-Module-06) | x
-![alt text][cpp_logo] | [CPP Module 07](https://github.com/noster002/CPP-Module-07) | x
-![alt text][cpp_logo] | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | x
-![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | x
-![alt text][cpp_logo]![alt text][nginx_logo] | [webserv](https://github.com/noster002/webserv) | x
-![alt text][docker_logo]![alt text][nginx_logo] | [Inception](https://github.com/noster002/Inception) | x
-![alt text][typescript_logo]![alt text][nestjs_logo]![alt text][nextjs_logo]![alt text][react_logo]![alt text][postgresql_logo]![alt text][docker_logo] | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
+![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | C library containing recoded functions of the C standard library and utility functions
+![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | C function reading input from a file descriptor line by line with a constant buffer size and one static variable
+![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | C library containing a recoded version of printf implementing multiple conversions and flags
+![alt text][debian_logo] | [born2beRoot](https://github.com/noster002/born2beRoot) | Debian server setup on a virtual machine with strong security policies
+![alt text][c_logo] | [push_swap](https://github.com/noster002/push_swap) | C program sorting one stack of numbers using another empty stack and certain swaping rules
+![alt text][c_logo] | [FdF](https://github.com/noster002/FdF) | C program visualising a map in a wireframe model representation of a 3D landscape using miniLibX
+![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | C program imitating the pipe mechanism of a shell
+![alt text][c_logo]![alt text][bash_logo] | [minishell](https://github.com/noster002/minishell) | C program functioning as a shell with implementations of quotes, redirections, pipes, environment vaiables, signals and builtin commands referencing bash
+![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | C program targeting the dining philosophers problem with multiple input variables using threads and mutexes
+➖ | [NetPractice](https://github.com/noster002/NetPractice) | Exercise about solving networking problems and understand TCP/IP addressing
+![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | C program implementing a ray tracing algorithm with the miniLibX including a camera, ambient lightning, one light and different objects (sphere, plane, cylinder)
+![alt text][cpp_logo] | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | CPP exercises: Namespaces, classes, member functions, stdio streams, initialization lists, static, const, etc.
+![alt text][cpp_logo] | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | C++ exercises: Memory allocation, pointers to members, references, switch statement
+![alt text][cpp_logo] | [CPP Module 02](https://github.com/noster002/CPP-Module-02) | C++ exercises: Ad-hoc polymorphism, operator overloading, Orthodox Canonical class form
+![alt text][cpp_logo] | [CPP Module 03](https://github.com/noster002/CPP-Module-03) | C++ exercises: Inheritance
+![alt text][cpp_logo] | [CPP Module 04](https://github.com/noster002/CPP-Module-04) | C++ exercises: Subtype polymorphism, abstract classes, interfaces
+![alt text][cpp_logo] | [CPP Module 05](https://github.com/noster002/CPP-Module-05) | C++ exercises: Exceptions
+![alt text][cpp_logo] | [CPP Module 06](https://github.com/noster002/CPP-Module-06) | C++ exercises: C++ casts
+![alt text][cpp_logo] | [CPP Module 07](https://github.com/noster002/CPP-Module-07) | C++ exercises: C++ templates
+![alt text][cpp_logo] | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | C++ exercises: Templated containers, iterators
+![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | C++ templates recoding the respective C++ standard containers (vector, map, set, stack) with implementation of a red black tree, pairs and more...
+![alt text][cpp_logo]![alt text][nginx_logo] | [webserv](https://github.com/noster002/webserv) | C++ program functioning as an asynchronous webserver using kqueue with implementations of HTTP, methods (GET, POST, DELETE), uploads, CGI and multiple configuration options
+![alt text][docker_logo]![alt text][nginx_logo] | [Inception](https://github.com/noster002/Inception) | Docker-compose setting up three containers (nginx, Wordpress, mariadb), two volumes (database, Wordpress) and two networks (nginx - Wordpress, Wordpress - mariadb) to host a Wordpress website
+![alt text][typescript_logo]![alt text][nestjs_logo]![alt text][nextjs_logo]![alt text][react_logo]![alt text][postgresql_logo]![alt text][docker_logo] | [ft_transcendence](https://github.com/noster002/ft_transcendence) | Fullstack web application set up in docker-compose with a webserver (nginx), a frontend (Next.js, TypeScript), a backend (NestJS, TypeScript) and a database (postgreSQL). It features a multiplayer online Pong game, a login system using the OAuth of 42 with 2FA possibilities, customizable profiles, editable friends lists, blocking mechanisms, real-time chat including DMs and group chats with administration rights aswell as sanction policies.
 
 [c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
 [debian_logo]: https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
