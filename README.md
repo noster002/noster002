@@ -5,7 +5,7 @@
 ## 42 Journey
 
 Category | Project | Description
---- | --- | ---
+: --- :| --- | ---
 ![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | x
 ![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | x
 ![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | x
@@ -15,7 +15,7 @@ Category | Project | Description
 ![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | x
 ![alt text][c_logo] | [minishell](https://github.com/noster002/minishell) | x
 ![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | x
-: ➖ :| [NetPractice](https://github.com/noster002/NetPractice) | x
+➖ | [NetPractice](https://github.com/noster002/NetPractice) | x
 ![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | x
 ![alt text][cpp_logo] | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | x
 ![alt text][cpp_logo] | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | x
