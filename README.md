@@ -17,22 +17,22 @@ Category | Project | Description
 ![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | x
 🕸️ | [NetPractice](https://github.com/noster002/NetPractice) | x
 ![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | x
-©️➕➕ | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | x
-©️➕➕ | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | x
-©️➕➕ | [CPP Module 02](https://github.com/noster002/CPP-Module-02) | x
-©️➕➕ | [CPP Module 03](https://github.com/noster002/CPP-Module-03) | x
-©️➕➕ | [CPP Module 04](https://github.com/noster002/CPP-Module-04) | x
-©️➕➕ | [CPP Module 05](https://github.com/noster002/CPP-Module-05) | x
-©️➕➕ | [CPP Module 06](https://github.com/noster002/CPP-Module-06) | x
-©️➕➕ | [CPP Module 07](https://github.com/noster002/CPP-Module-07) | x
-©️➕➕ | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | x
-©️➕➕ | [ft_containers](https://github.com/noster002/ft_containers) | x
-©️➕➕ | [webserv](https://github.com/noster002/webserv) | x
+![alt text][cpp_logo] | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | x
+![alt text][cpp_logo] | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | x
+![alt text][cpp_logo] | [CPP Module 02](https://github.com/noster002/CPP-Module-02) | x
+![alt text][cpp_logo] | [CPP Module 03](https://github.com/noster002/CPP-Module-03) | x
+![alt text][cpp_logo] | [CPP Module 04](https://github.com/noster002/CPP-Module-04) | x
+![alt text][cpp_logo] | [CPP Module 05](https://github.com/noster002/CPP-Module-05) | x
+![alt text][cpp_logo] | [CPP Module 06](https://github.com/noster002/CPP-Module-06) | x
+![alt text][cpp_logo] | [CPP Module 07](https://github.com/noster002/CPP-Module-07) | x
+![alt text][cpp_logo] | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | x
+![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | x
+![alt text][cpp_logo] | [webserv](https://github.com/noster002/webserv) | x
 🐳 | [Inception](https://github.com/noster002/Inception) | x
 ⭐ | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
 
 [c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
-
+[cpp_logo]: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
 <!--
 **noster002/noster002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
