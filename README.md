@@ -5,7 +5,7 @@
 ## 42 Journey
 
 Category | Project | Description
-: --- :| --- | ---
+:---:| --- | ---
 ![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | x
 ![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | x
 ![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | x
