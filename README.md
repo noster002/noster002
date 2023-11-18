@@ -6,7 +6,7 @@
 
 Project | Description
 --- | ---
-[Libft](../../../Libft) | x
+[Libft](https://github.com/noster002/Libft) | x
 get_next_line | x
 ft_printf | x
 born2beRoot | x
