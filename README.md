@@ -7,10 +7,10 @@
 Category | Project | Description
 :---:| --- | ---
 ![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | C library containing recoded functions of the C standard library and utility functions
-![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | C function reading input from a file descriptor line by line with a constant buffer size and one static variable
+![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | C function reading input from a file descriptor line by line
 ![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | C library containing a recoded version of printf implementing multiple conversions and flags
 ![alt text][debian_logo] | [born2beRoot](https://github.com/noster002/born2beRoot) | Debian server setup on a virtual machine with strong security policies
-![alt text][c_logo] | [push_swap](https://github.com/noster002/push_swap) | C program sorting one stack of numbers using another empty stack and certain swaping rules
+![alt text][c_logo] | [push_swap](https://github.com/noster002/push_swap) | C program sorting one stack of numbers using another empty stack and certain swapping rules
 ![alt text][c_logo] | [FdF](https://github.com/noster002/FdF) | C program visualising a map in a wireframe model representation of a 3D landscape using miniLibX
 ![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | C program imitating the pipe mechanism of a shell
 ![alt text][c_logo]![alt text][bash_logo] | [minishell](https://github.com/noster002/minishell) | C program functioning as a shell with implementations of quotes, redirections, pipes, environment vaiables, signals and builtin commands referencing bash
