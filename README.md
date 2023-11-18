@@ -31,17 +31,17 @@ Category | Project | Description
 ![alt text][docker_logo]![alt text][nginx_logo] | [Inception](https://github.com/noster002/Inception) | Docker-compose setting up three containers (nginx, Wordpress, mariadb), two volumes (database, Wordpress) and two networks (nginx - Wordpress, Wordpress - mariadb) to host a Wordpress website
 ![alt text][typescript_logo]![alt text][nestjs_logo]![alt text][nextjs_logo]![alt text][react_logo]![alt text][postgresql_logo]![alt text][docker_logo] | [ft_transcendence](https://github.com/noster002/ft_transcendence) | Fullstack web application set up in docker-compose with a webserver (nginx), a frontend (Next.js, TypeScript), a backend (NestJS, TypeScript) and a database (postgreSQL) <ul><li>Pong game</li><ul><li>singleplayer (offline)</li><li>multiplayer (online)</li></ul><li>user management</li><ul><li>login system using the OAuth of 42</li><li>2FA possibilities</li><li>customizable profile</li><li>editable friends list</li><li>blocking mechanism</li></ul><li>real-time chat</li><ul><li>DMs</li><li>group chats</li><ul><li>administration rights</li><li>sanction policies</li></ul></ul></ul>
 
-[c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
-[debian_logo]: https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
-[bash_logo]: https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg
-[cpp_logo]: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
-[docker_logo]: https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg
-[nginx_logo]: https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg
-[typescript_logo]: https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg
-[nestjs_logo]: https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg
-[nextjs_logo]: https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg
-[react_logo]: https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
-[postgresql_logo]: https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg
+[c_logo]: ../c-original.svg
+[debian_logo]: ../debian-original.svg
+[bash_logo]: ../bash-original.svg
+[cpp_logo]: ../cplusplus-original.svg
+[docker_logo]: ../docker-original.svg
+[nginx_logo]: ../nginx-original.svg
+[typescript_logo]: ../typescript-original.svg
+[nestjs_logo]: ../nestjs-plain.svg
+[nextjs_logo]: ../nextjs-original.svg
+[react_logo]: ../react-original.svg
+[postgresql_logo]: ../postgresql-original.svg
 
 <!--
 **noster002/noster002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
