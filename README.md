@@ -6,17 +6,17 @@
 
 Category | Project | Description
 --- | --- | ---
-©️ | [Libft](https://github.com/noster002/Libft) | x
-©️ | [get_next_line](https://github.com/noster002/get_next_line) | x
-©️ | [ft_printf](https://github.com/noster002/ft_printf) | x
+![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | x
+![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | x
+![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | x
 💻 | [born2beRoot](https://github.com/noster002/born2beRoot) | x
-©️ | [push_swap](https://github.com/noster002/push_swap) | x
-©️ | [FdF](https://github.com/noster002/FdF) | x
-©️ | [pipex](https://github.com/noster002/pipex) | x
-©️ | [minishell](https://github.com/noster002/minishell) | x
-©️ | [Philosophers](https://github.com/noster002/Philosophers) | x
+![alt text][c_logo] | [push_swap](https://github.com/noster002/push_swap) | x
+![alt text][c_logo] | [FdF](https://github.com/noster002/FdF) | x
+![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | x
+![alt text][c_logo] | [minishell](https://github.com/noster002/minishell) | x
+![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | x
 🕸️ | [NetPractice](https://github.com/noster002/NetPractice) | x
-©️ | [miniRT](https://github.com/noster002/miniRT) | x
+![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | x
 ©️➕➕ | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | x
 ©️➕➕ | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | x
 ©️➕➕ | [CPP Module 02](https://github.com/noster002/CPP-Module-02) | x
@@ -30,6 +30,8 @@ Category | Project | Description
 ©️➕➕ | [webserv](https://github.com/noster002/webserv) | x
 🐳 | [Inception](https://github.com/noster002/Inception) | x
 ⭐ | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
+
+[c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
 
 <!--
 **noster002/noster002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
