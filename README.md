@@ -9,7 +9,7 @@ Category | Project | Description
 ![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | x
 ![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | x
 ![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | x
-💻 | [born2beRoot](https://github.com/noster002/born2beRoot) | x
+![alt text][debian_logo] | [born2beRoot](https://github.com/noster002/born2beRoot) | x
 ![alt text][c_logo] | [push_swap](https://github.com/noster002/push_swap) | x
 ![alt text][c_logo] | [FdF](https://github.com/noster002/FdF) | x
 ![alt text][c_logo] | [pipex](https://github.com/noster002/pipex) | x
@@ -28,11 +28,14 @@ Category | Project | Description
 ![alt text][cpp_logo] | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | x
 ![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | x
 ![alt text][cpp_logo] | [webserv](https://github.com/noster002/webserv) | x
-🐳 | [Inception](https://github.com/noster002/Inception) | x
+![alt text][docker_logo] | [Inception](https://github.com/noster002/Inception) | x
 ⭐ | [ft_transcendence](https://github.com/noster002/ft_transcendence) | x
 
 [c_logo]: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
+[debian_logo]: https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
 [cpp_logo]: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
+[docker_logo]: https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg
+
 <!--
 **noster002/noster002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
