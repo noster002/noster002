@@ -1,5 +1,4 @@
 # Hi there 👋
-===
 
 👨‍🎓 I'm a student at [42Wolfsburg](https://42wolfsburg.de/)
 
