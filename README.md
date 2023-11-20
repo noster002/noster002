@@ -17,15 +17,7 @@ Category | Project | Description
 ![alt text][c_logo] | [Philosophers](https://github.com/noster002/Philosophers) | C program targeting the dining philosophers problem with multiple input variables using threads and mutexes
 ➖ | [NetPractice](https://github.com/noster002/NetPractice) | Exercise about solving networking problems and understand TCP/IP addressing
 ![alt text][c_logo] | [miniRT](https://github.com/noster002/miniRT) | C program implementing a ray tracing algorithm with the miniLibX including a camera, ambient lightning, one light and different objects (sphere, plane, cylinder)
-![alt text][cpp_logo] | [CPP Module 00](https://github.com/noster002/CPP-Module-00) | CPP exercises: Namespaces, classes, member functions, stdio streams, initialization lists, static, const, etc.
-![alt text][cpp_logo] | [CPP Module 01](https://github.com/noster002/CPP-Module-01) | C++ exercises: Memory allocation, pointers to members, references, switch statement
-![alt text][cpp_logo] | [CPP Module 02](https://github.com/noster002/CPP-Module-02) | C++ exercises: Ad-hoc polymorphism, operator overloading, Orthodox Canonical class form
-![alt text][cpp_logo] | [CPP Module 03](https://github.com/noster002/CPP-Module-03) | C++ exercises: Inheritance
-![alt text][cpp_logo] | [CPP Module 04](https://github.com/noster002/CPP-Module-04) | C++ exercises: Subtype polymorphism, abstract classes, interfaces
-![alt text][cpp_logo] | [CPP Module 05](https://github.com/noster002/CPP-Module-05) | C++ exercises: Exceptions
-![alt text][cpp_logo] | [CPP Module 06](https://github.com/noster002/CPP-Module-06) | C++ exercises: C++ casts
-![alt text][cpp_logo] | [CPP Module 07](https://github.com/noster002/CPP-Module-07) | C++ exercises: C++ templates
-![alt text][cpp_logo] | [CPP Module 08](https://github.com/noster002/CPP-Module-08) | C++ exercises: Templated containers, iterators
+![alt text][cpp_logo] | [CPP Modules](https://github.com/noster002/CPP-Modules) | C++ modules containing multiple exercises to learn the language
 ![alt text][cpp_logo] | [ft_containers](https://github.com/noster002/ft_containers) | C++ templates recoding the respective C++ standard containers (vector, map, set, stack) with implementation of a red black tree, pairs and more...
 ![alt text][cpp_logo]![alt text][nginx_logo] | [webserv](https://github.com/noster002/webserv) | C++ program functioning as an asynchronous webserver using kqueue with implementations of HTTP, methods (GET, POST, DELETE), uploads, CGI and multiple configuration options
 ![alt text][docker_logo]![alt text][nginx_logo] | [Inception](https://github.com/noster002/Inception) | Docker-compose setting up three containers (nginx, Wordpress, mariadb), two volumes (database, Wordpress) and two networks (nginx - Wordpress, Wordpress - mariadb) to host a Wordpress website
