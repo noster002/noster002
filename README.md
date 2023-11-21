@@ -3,6 +3,7 @@
 👨‍🎓 I'm a student at [42Wolfsburg](https://42wolfsburg.de/).  
 👀 Looking for an internship right now.  
 ⬇️ Check out my projects (it's just my journey from 0 to 42 graduate so far).  
+🛠️ I am not maintaining the 42 projects.  
 
 ## 42 Journey
 
