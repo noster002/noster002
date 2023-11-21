@@ -1,11 +1,13 @@
 # Hey, Nils here ✋
 
-👨‍🎓 I'm a student at [42Wolfsburg](https://42wolfsburg.de/)
+👨‍🎓 I'm a student at [42Wolfsburg](https://42wolfsburg.de/).  
+👀 Looking for an internship right now.  
+⬇️ Check out my projects (it's just my journey from 0 to 42 graduate so far).  
 
 ## 42 Journey
 
 Category | Project | Description
-:---:| --- | ---
+--- | --- | ---
 ![alt text][c_logo] | [Libft](https://github.com/noster002/Libft) | C library containing recoded functions of the C standard library and utility functions
 ![alt text][c_logo] | [get_next_line](https://github.com/noster002/get_next_line) | C function reading input from a file descriptor line by line
 ![alt text][c_logo] | [ft_printf](https://github.com/noster002/ft_printf) | C library containing a recoded version of printf implementing multiple conversions and flags
